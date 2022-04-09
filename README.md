@@ -1,6 +1,7 @@
 # project
 
-A new Flutter project.
+###6288080 Jaranut Lertsirivorakul
+###6288166 Chatchai Hojitsiriyanon
 
 ## Getting Started
 
